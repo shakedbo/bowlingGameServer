@@ -39,6 +39,7 @@ bld/
 *.nuget.targets
 project.lock.json
 project.fragment.lock.json
+appsettings.json
 
 # ASP.NET
 ScaffoldingReadMe.txt
