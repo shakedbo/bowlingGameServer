@@ -1,6 +1,6 @@
 # Bowling Game API
 
-A production-grade REST API for managing bowling games, built with .NET 9 and MySQL.
+A production-grade REST API for managing bowling games, built with .NET 10 and MySQL.
 
 ## Overview
 
